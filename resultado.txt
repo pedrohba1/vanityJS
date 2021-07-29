@@ -1,0 +1,68 @@
+#1
+seed: secret0.5120277972185836
+string encontrada: p3dru
+hash em base58: FeCpvMzp3dru2JTS1Kdu3QfzJSe8LrwAQZAwAQZNYSKJ
+#2
+seed: secret0.6397139173978392
+string encontrada: p3dru
+hash em base58: eKgdV6RgHVj6Vab23oh8Rzp3druhxmMoMgYYqGQUNQ5
+#3
+seed: secret0.4254847822134251
+string encontrada: pedro
+hash em base58: FFVyEkipedro4Hnbqub1xToVrrvDHWs9LBJqtA52cWCZ
+#4
+seed: secret0.0668582682203469
+string encontrada: pedro
+hash em base58: Bh2sso69oTgMoyjfTTXCXporsxUjqkqzpUCpedroM56r
+#5
+seed: secret0.8884456033754786
+string encontrada: pedro
+hash em base58: CsxNiq5XYmw5ytDHY1mRCGaFiVNQgpedroS3Lvy31wRJ
+#6
+seed: secret0.8504319388630763
+string encontrada: p3dro
+hash em base58: 3uURAYBDip3drofsUgNpTgBQ6voooxQ3vAv4Me8XSirq
+#7
+seed: secret0.934032694848624
+string encontrada: p3dru
+hash em base58: 9C3cpXoKLeQykB9R14TWXNvnWhp3druncJhco9rkfAvK
+#8
+seed: secret0.0373722388432296
+string encontrada: p3dru
+hash em base58: BVp3drubMzjVPmE2doVSPht6SANojKx11v4E7UZ2tubC
+#9
+seed: secret0.7376644489446582
+string encontrada: p3dro
+hash em base58: AG7iHgKeSP2p3droeKmhkpvTR8LMUSAtepWmm3u3viw4
+#10
+seed: secret0.3441606281346319
+string encontrada: p3dro
+hash em base58: E9ibQpKutcwBbcMuc2R9D81i3p3drow3S3LvANA7VEDX
+#11
+seed: secret0.5942952325215127
+string encontrada: pedru
+hash em base58: FaKSJCeeAPcWwKZNfpedrutsuEpyZW68Fqz7fo8fzhGE
+#12
+seed: secret0.0956334616737533
+string encontrada: pedru
+hash em base58: DfDzqkJypwpedruc7cCja3j7jBeVVh1H5FyPYayudufk
+#13
+seed: secret0.09803980518571476
+string encontrada: pedro
+hash em base58: 6NqTTQ8W9uu4NqA6ieEtwUoapedroZ9brfw5qCSdu69X
+#14
+seed: secret0.8021569074117127
+string encontrada: pedru
+hash em base58: AWCeBbmuHUtXTaSwZaH5kxHprX9dR5pedruiYLDR9y2V
+#15
+seed: secret0.6220482152436084
+string encontrada: p3dro
+hash em base58: 5zdpQq2Qbwx1rUJkk4qWtTCiA5b9p3dromiqSJPxGBqu
+#16
+seed: secret0.9324833629745979
+string encontrada: p3dru
+hash em base58: C7xkboByy3m4iJpDJF4mUWEdMUTMvHgZp3dru6LJbe3o
+#17
+seed: secret0.1799685508050004
+string encontrada: p3dro
+hash em base58: 9Jv3gdQyVNMkvttG2cdpa4uRJVup3droX35cEPpr9YF9

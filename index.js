@@ -3,7 +3,7 @@ const bs58 = require('bs58')
 var md5sum = crypto.createHash('md5');
 
 async function generateB58() {
-    const seed =  'secret' + Math.random().toString(); // muda o seed pra ser com date também
+    const seed =  'secret' + Math.random().toString(); // TODO:colocar o seed para ser gerado com 12 palavrasara ser
     const sha = crypto.createHash('sha256');  
     hash = sha.update(seed).digest('hex')
     const bytes = Buffer.from(hash, 'hex')
