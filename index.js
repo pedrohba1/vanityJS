@@ -1,9 +1,10 @@
 var crypto = require('crypto');
 const bs58 = require('bs58')
 var md5sum = crypto.createHash('md5');
+var randomWords = require('random-words');
 
 async function generateB58() {
-    const seed =  'secret' + Math.random().toString(); // TODO:colocar o seed para ser gerado com 12 palavrasara ser
+    const seed =  randomWords(12).toString(); // TODO:colocar o seed para ser gerado com 12 palavrasara ser
     const sha = crypto.createHash('sha256');  
     hash = sha.update(seed).digest('hex')
     const bytes = Buffer.from(hash, 'hex')
@@ -27,7 +28,7 @@ async function findVanity(stringArr){
     }    
 }
 
-const names = ['pedro', 'p3dro', 'p3dr0', 'pedr0', 'p3dr0', 'p3dru', 'pedru'];
+const names = ['pedro', 'p3dro', 'p3dr0', 'pedr0', 'p3dr0', 'p3dru', 'pedru', 'buf0'];
 findVanity(names);
 
 

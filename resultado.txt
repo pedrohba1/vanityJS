@@ -1,68 +1,48 @@
 #1
-seed: secret0.5120277972185836
+seed: independent,all,torn,trap,busy,current,return,characteristic,melted,lake,pure,science
 string encontrada: p3dru
-hash em base58: FeCpvMzp3dru2JTS1Kdu3QfzJSe8LrwAQZAwAQZNYSKJ
+hash em base58: FyHZR3dasDHjDTG9ZJnRjMxp3dru7jDreztPzBGk5WS
 #2
-seed: secret0.6397139173978392
-string encontrada: p3dru
-hash em base58: eKgdV6RgHVj6Vab23oh8Rzp3druhxmMoMgYYqGQUNQ5
+seed: happy,help,rod,night,sign,history,birth,coal,value,popular,frog,least
+string encontrada: pedru
+hash em base58: HyAUjUF2jc4nxhL7xMasCLnikapedruVkDvfRuBp4s1e
 #3
-seed: secret0.4254847822134251
-string encontrada: pedro
-hash em base58: FFVyEkipedro4Hnbqub1xToVrrvDHWs9LBJqtA52cWCZ
+seed: function,perfect,cause,material,pink,salmon,gravity,closely,closer,rock,finger,wherever
+string encontrada: pedru
+hash em base58: CqkSEE26jso5PYbdLBwNDuAwhppedruEJUyCwBPSRjX2
 #4
-seed: secret0.0668582682203469
-string encontrada: pedro
-hash em base58: Bh2sso69oTgMoyjfTTXCXporsxUjqkqzpUCpedroM56r
+seed: corn,rule,bag,lost,twice,catch,see,theory,these,temperature,pick,discover
+string encontrada: p3dru
+hash em base58: 4BFFm5YMCTg5AXUUAfmvLa3e1XKXyp1ST5Yqp3druwkK
 #5
-seed: secret0.8884456033754786
-string encontrada: pedro
-hash em base58: CsxNiq5XYmw5ytDHY1mRCGaFiVNQgpedroS3Lvy31wRJ
+seed: blew,tape,apart,gravity,folks,blood,answer,force,minute,wool,reader,gasoline
+string encontrada: p3dro
+hash em base58: 3xBJUSzNrPQDdwS6Tf6Z9q6p3droG1KzjY2n1w9gGoFw
 #6
-seed: secret0.8504319388630763
-string encontrada: p3dro
-hash em base58: 3uURAYBDip3drofsUgNpTgBQ6voooxQ3vAv4Me8XSirq
-#7
-seed: secret0.934032694848624
-string encontrada: p3dru
-hash em base58: 9C3cpXoKLeQykB9R14TWXNvnWhp3druncJhco9rkfAvK
-#8
-seed: secret0.0373722388432296
-string encontrada: p3dru
-hash em base58: BVp3drubMzjVPmE2doVSPht6SANojKx11v4E7UZ2tubC
-#9
-seed: secret0.7376644489446582
-string encontrada: p3dro
-hash em base58: AG7iHgKeSP2p3droeKmhkpvTR8LMUSAtepWmm3u3viw4
-#10
-seed: secret0.3441606281346319
-string encontrada: p3dro
-hash em base58: E9ibQpKutcwBbcMuc2R9D81i3p3drow3S3LvANA7VEDX
-#11
-seed: secret0.5942952325215127
-string encontrada: pedru
-hash em base58: FaKSJCeeAPcWwKZNfpedrutsuEpyZW68Fqz7fo8fzhGE
-#12
-seed: secret0.0956334616737533
-string encontrada: pedru
-hash em base58: DfDzqkJypwpedruc7cCja3j7jBeVVh1H5FyPYayudufk
-#13
-seed: secret0.09803980518571476
+seed: include,diagram,go,rice,die,track,wagon,mouth,attempt,fell,almost,terrible
 string encontrada: pedro
-hash em base58: 6NqTTQ8W9uu4NqA6ieEtwUoapedroZ9brfw5qCSdu69X
-#14
-seed: secret0.8021569074117127
-string encontrada: pedru
-hash em base58: AWCeBbmuHUtXTaSwZaH5kxHprX9dR5pedruiYLDR9y2V
-#15
-seed: secret0.6220482152436084
-string encontrada: p3dro
-hash em base58: 5zdpQq2Qbwx1rUJkk4qWtTCiA5b9p3dromiqSJPxGBqu
-#16
-seed: secret0.9324833629745979
+hash em base58: 9raSPicQNMuGzEKpedroAx17W14gmfyuXDeieGzn8zT4
+#7
+seed: slept,fish,mice,near,hall,broad,hospital,there,cheese,tube,anywhere,army
 string encontrada: p3dru
-hash em base58: C7xkboByy3m4iJpDJF4mUWEdMUTMvHgZp3dru6LJbe3o
-#17
-seed: secret0.1799685508050004
+hash em base58: 5VkhPZF6Bh1C6BkqGSLYNou4Tp3druuPuRctSt4UDnsD
+#8
+seed: dot,dear,term,bowl,happy,draw,space,relationship,mathematics,football,cross,small
+string encontrada: p3dru
+hash em base58: 6NR3jfK1zt6KsNNLSY4REyzmK7EvcXGMSq5XYfp3drue
+#9
+seed: occur,harbor,well,sold,goes,slip,fight,needed,headed,visitor,pick,pure
+string encontrada: pedro
+hash em base58: JC6fN4xEc7LV8pedroehsjS89KJZHxhA14r253eZm4vp
+#10
+seed: from,tube,production,stretch,bank,stranger,hand,where,distance,dot,sign,single
 string encontrada: p3dro
-hash em base58: 9Jv3gdQyVNMkvttG2cdpa4uRJVup3droX35cEPpr9YF9
+hash em base58: CNNeFdL82xp3droUe47HAmDrw7AJpiugQhwR2WHAk63Y
+#11
+seed: respect,develop,willing,mission,should,check,cup,jack,better,movie,tube,seen
+string encontrada: p3dro
+hash em base58: FcXQmvEQUuqfo6p4L4FHqKnPCQv1dDsLEBhnXiUp3dro
+#12
+seed: garage,doubt,hunt,decide,week,finally,shut,slipped,cowboy,softly,putting,planned
+string encontrada: pedro
+hash em base58: 9FQ7rfvo6GLcxhaDDJB14gp5uCNXo9NY4pedropYDbjg
